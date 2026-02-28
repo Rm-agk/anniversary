@@ -13,7 +13,7 @@ let slides = [
     { src: "images/12.jpg", text: "Another Moment" },
     { src: "images/13.jpg", text: "Another Moment" },
     { src: "images/14.jpg", text: "Another Moment" },
-    { src: "images/15.png", text: "Another Moment" },
+    { src: "images/15.PNG", text: "Another Moment" },
     { src: "images/16.jpg", text: "Another Moment" },
     { src: "images/17.jpg", text: "Another Moment" },
     { src: "images/18.jpg", text: "Another Moment" },
